@@ -143,7 +143,7 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Creality Ender-5 Plus"                                                // Änderung
+#define CUSTOM_MACHINE_NAME "Creality Ender-5 Plus 001"                                                // Änderung
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
@@ -1378,8 +1378,8 @@
 // @section machine
 
 // The size of the printable area
-#define X_BED_SIZE 365                                                                             // Änderung
-#define Y_BED_SIZE 369                                                                             // Änderung
+#define X_BED_SIZE 369                                                                             // Änderung
+#define Y_BED_SIZE 365                                                                             // Änderung
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
